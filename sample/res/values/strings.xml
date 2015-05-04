@@ -27,7 +27,7 @@
     <string name="viewpager_log">Log</string>
     
     <!-- Card Detail -->
-    <string name="paycard_back_text">Vinsamlegast berði kortið \n upp að bakhlið tækisins.</string>
+    <string name="paycard_back_text">Vinsamlegast berðu kortið \n upp að bakhlið tækisins.</string>
     <string name="extended_card_detail_title">Frekari kortaupplýsingar.</string>
     <string name="card_representation_title">Korta framsetning.</string>
     
@@ -64,15 +64,15 @@
     <string name="about_app_detail">This app was made to read public data on banking NFC cards compliants with EMV norm.</string>
     <string name="about_source_detail">Source Code and documentation available on <a href="https://github.com/devnied/EMV-NFC-Paycard-Enrollment">Github</a>. Application written by <a href="http://julien-millau.fr">Julien Millau</a></string>
     <string name="about_inapp_text">Help us to improve this app with donation</string>
-    <string name="about_title">About</string>
-    <string name="about_inApp">Donate</string>
+    <string name="about_title">Um okkur</string>
+    <string name="about_inApp">Styrkja</string>
     
     <!-- Navigation drawable -->
-    <string name="navigation_menu_open">Navigation menu open</string>
-    <string name="navigation_menu_close">Navigation menu close</string>
+    <string name="navigation_menu_open">Valmynd opna</string>
+    <string name="navigation_menu_close">Valmynd loka</string>
     <string-array name="navigation_items">
-        <item>Cards details</item>
-        <item>Configuration </item>
+        <item>Kortaupplýsingar</item>
+        <item>Stillingar</item>
         <item>Um appið</item>
     </string-array>
     
