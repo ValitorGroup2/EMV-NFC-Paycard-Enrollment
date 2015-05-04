@@ -1,16 +1,5 @@
 package com.github.devnied.emvnfccard.activity;
 
-import java.io.IOException;
-import java.lang.ref.WeakReference;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collection;
-import java.util.Date;
-import java.util.List;
-
-import org.apache.commons.io.IOUtils;
-import org.apache.commons.lang3.StringUtils;
-
 import android.annotation.SuppressLint;
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
@@ -58,6 +47,17 @@ import com.github.devnied.emvnfccard.utils.CroutonUtils.CoutonColor;
 import com.github.devnied.emvnfccard.utils.NFCUtils;
 import com.github.devnied.emvnfccard.utils.SimpleAsyncTask;
 import com.readystatesoftware.systembartint.SystemBarTintManager;
+
+import org.apache.commons.io.IOUtils;
+import org.apache.commons.lang3.StringUtils;
+
+import java.io.IOException;
+import java.lang.ref.WeakReference;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collection;
+import java.util.Date;
+import java.util.List;
 
 import de.keyboardsurfer.android.widget.crouton.Crouton;
 import fr.devnied.bitlib.BytesUtils;
