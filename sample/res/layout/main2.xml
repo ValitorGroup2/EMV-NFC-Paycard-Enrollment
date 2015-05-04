@@ -9,6 +9,9 @@
         android:text="Þetta verður okkar upphafssíða."
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="300px"/>
+        android:layout_marginTop="56dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 
 </RelativeLayout>
