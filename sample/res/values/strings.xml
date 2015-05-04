@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Banking Card Reader</string>
-    <string name="activity_name">Banking Card Reader</string>
+    <string name="app_name">Vasinn</string>
+    <string name="activity_name">Vasinn</string>
     
     <!-- Msg -->
     <string name="billing_success">Thanks for your donation!</string>
-    <string name="card_read">Card read</string>
-    <string name="card_reading">Reading in progress&#8230;</string>
-    <string name="card_deleted">Card data deleted</string>
-    <string name="card_reading_desc">Please do not remove or move card during reading.</string>
-    <string name="nfc_locked">NFC is locked on your card</string>
-    <string name="msg_nfc_disable">Please enable NFC and press back to return to this application.</string>
-    <string name="msg_activate_nfc">OK</string>
-    <string name="msg_info">Info</string>
+    <string name="card_read">Kort lesið.</string>
+    <string name="card_reading">Lestur í vinnslu.&#8230;</string>
+    <string name="card_deleted">Kortagögn eydd.</string>
+    <string name="card_reading_desc">Vinsamlegast ekki fjarlægja kort á meðan lesið er.</string>
+    <string name="nfc_locked">NFC er læst á kortinu.</string>
+    <string name="msg_nfc_disable">Vinsamlegast kveiktu á NFC og endurræstu forritið.</string>
+    <string name="msg_activate_nfc">Í lagi</string>
+    <string name="msg_info">Upplýsingar</string>
     <string name="donate_banner">Help us to improve this app, donate !</string>
     
     <!-- Error -->
-    <string name="error_communication_nfc">Please do not move card, try again !</string>
-    <string name="error_card_unknown">Unknown EMV card (Please send logs)</string>
-    <string name="error_link">No web browser found</string>
-    <string name="error_email">No email client found</string>
+    <string name="error_communication_nfc">Vinsamlegast ekki hreyfa kort, prufaðu aftur!</string>
+    <string name="error_card_unknown">Unknown EMV card (Please send logs) Óþekkt EMV card (Visamlegast sendu logs)</string>
+    <string name="error_link">Enginn vafri fannst.</string>
+    <string name="error_email">Ekkert netfangs forrit fannst.</string>
     
     <!-- Tabs -->
-    <string name="viewpager_carddetail">Card detail</string>
-    <string name="viewpager_transactions">Transactions</string>
+    <string name="viewpager_carddetail">Kortaupplýsingar</string>
+    <string name="viewpager_transactions">Færslur</string>
     <string name="viewpager_log">Log</string>
     
     <!-- Card Detail -->
-    <string name="paycard_back_text">Tap your NFC paycard \n to the back of your phone</string>
-    <string name="extended_card_detail_title">Extended card details</string>
-    <string name="card_representation_title">Card Representation</string>
+    <string name="paycard_back_text">Vinsamlegast berði kortið \n upp að bakhlið tækisins.</string>
+    <string name="extended_card_detail_title">Frekari kortaupplýsingar.</string>
+    <string name="card_representation_title">Korta framsetning.</string>
     
     <string name="extended_title_AID">Card AID :</string>
     <string name="extended_title_application_label">Application :</string>
@@ -72,21 +72,21 @@
     <string name="navigation_menu_close">Navigation menu close</string>
     <string-array name="navigation_items">
         <item>Cards details</item>
-        <item>Configuration</item>
-        <item>About</item>
+        <item>Configuration </item>
+        <item>Um appið</item>
     </string-array>
     
     <!-- Preferences -->
-    <string name="general_category">General Preferences</string>
-    <string name="pref_save_read_card">Save card</string>
-    <string name="pref_sum_save_card">Save detail on file system</string>
-    <string name="pref_remove_all_stored_cards">Remove stored data</string>
+    <string name="general_category">Almennar stillingar.</string>
+    <string name="pref_save_read_card">Vista kort.</string>
+    <string name="pref_sum_save_card">Vista gögn á skráarkerfi.</string>
+    <string name="pref_remove_all_stored_cards">Eyða geymdum gögnum.</string>
     
         <!--  Strings for possible PreferenceActivity Back/Next buttons -->
-    <string name="back_button_label">Back</string>
-    <string name="next_button_label">Next</string>
+    <string name="back_button_label">Til baka</string>
+    <string name="next_button_label">Næsta</string>
 
     <!-- Optional button to Skip a PreferenceActivity [CHAR LIMIT=20] -->
-    <string name="skip_button_label">Skip</string>
+    <string name="skip_button_label">Sleppa</string>
 
 </resources>
